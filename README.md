@@ -2,5 +2,5 @@
 This is my first repository.
 
 I'll be working on a few things:
-- An Eth NFT site
-- A Solans NFT site
+- An ETH NFT site
+- A Solana NFT site
