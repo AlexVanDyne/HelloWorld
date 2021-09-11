@@ -1,2 +1,6 @@
 # HelloWorld
-this is my first repository
+This is my first repository.
+
+I'll be working on a few things:
+- An Eth NFT site
+- A Solans NFT site
